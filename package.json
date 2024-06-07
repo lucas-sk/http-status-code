@@ -1,0 +1,26 @@
+{
+  "name": "@lucas-sk/http-status-codes",
+  "module": "index.ts",
+  "version": "1.0.0",
+  "description": "HTTP status codes by lusk.",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^2.2.2",
+    "@types/bun": "latest"
+  },
+  "keywords": [
+    "http",
+    "status",
+    "codes",
+    "http-status-codes",
+    "http-status"
+  ],
+  "peerDependencies": {
+    "typescript": "^5.0.0",
+    "eslint": "8.57.0"
+  },
+  "author": "lucas-sk"
+}
