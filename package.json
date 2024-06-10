@@ -1,7 +1,7 @@
 {
   "name": "@lucas-sk/http-status-codes",
   "module": "index.ts",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "HTTP status codes by lusk.",
   "type": "module",
   "publishConfig": {
@@ -11,6 +11,7 @@
     "@rocketseat/eslint-config": "^2.2.2",
     "@types/bun": "latest"
   },
+
   "keywords": [
     "http",
     "status",
